@@ -1,0 +1,2 @@
+# HP-Pavilion-15-ab032tx
+FULL WORKING SYSTEM
