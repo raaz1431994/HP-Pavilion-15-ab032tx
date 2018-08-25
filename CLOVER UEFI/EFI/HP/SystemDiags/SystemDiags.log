@@ -1,0 +1,167 @@
+2018-02-17 17:26:38  ================================================
+2018-02-17 17:26:38  EFI System Diagnostic 6.0.2.0 Started
+2018-02-17 17:26:38  Load Options = 
+2018-02-17 17:26:38  Console Control Protocol Not Available
+2018-02-17 17:26:38  SysDiagsBiosData2011 Configuration Variable Acquired
+2018-02-17 17:26:38  Found HP Thermal Diagnostic Protocol
+2018-02-17 17:26:38  System ID: 8096
+2018-02-17 17:26:38  HP BIOS Image Interface Protocol Version 2.0
+2018-02-17 17:26:38  Found 4 Processors 4 Enabled, Max 4 Processors
+2018-02-17 17:26:38  Absolute Pointer Protocol Not Available
+2018-02-17 17:26:38  0 UART device path node found.
+2018-02-17 17:26:38  System Family: = 2
+2018-02-17 17:26:38  Filter Serial Port Test for SystemFamily 2 
+2018-02-17 17:26:38  PlatformLang reported as en-US.
+2018-02-17 17:26:38  Language Selected is currently (eng).
+2018-02-17 17:26:43  Initializing Drive Library.
+2018-02-17 17:26:43  TscPerSecond = 09D87C544h 
+2018-02-17 17:26:43  Installed DTD ATA Commands Protocol
+2018-02-17 17:26:43  Found installed DTD ATA Commands Protocol supporting Packet Commands!
+2018-02-17 17:26:43  Found 1 Hard Disk Drive.
+2018-02-17 17:26:43  Drive 0 SMART Supported
+2018-02-17 17:26:43  AtaCommandsBindBlockIoProtocol(): Linked Block I/O Protocol (0x8E4C7EA0) to Drive 0
+2018-02-17 17:26:43  Found 1 Optical Disk Drive.
+2018-02-17 17:26:43  AtaCommandsBindBlockIoProtocol(): Linked Block I/O Protocol (0x8E4C7AA0) to Drive 1
+2018-02-17 17:26:43  2 Total ATA Drives Found
+2018-02-17 17:26:43  Found 1 handles supporting EFI_EXT_SCSI_PASS_THRU_PROTOCOL (143B7632-B81B-4CB7-ABD3-B625A5B9BFFE).
+2018-02-17 17:26:43  SCSI device connected at Target 0x0100FFFFFFFFFFFF-FFFFFFFFFFFFFFFF Lun 0x0
+2018-02-17 17:26:43  Device Node Sata(0x1,0x0,0x0).
+2018-02-17 17:26:43  Drive 2 - The Medium is Removable
+2018-02-17 17:26:43  GetVPDPage(): PassThru() failed. (Device Error)
+2018-02-17 17:26:43  ExtScsiPassThruInitScsiDriveData(2): GetVPDPage(80) failed. (Device Error)
+2018-02-17 17:26:43  ExtScsiPassThruInitializeScsiDiskSupport(): ExtScsiPassThruInitScsiDriveData() failed. (Device Error)
+2018-02-17 17:26:43  No handle found supporting EFI_NVM_EXPRESS_PASS_THRU_PROTOCOL_GUID (EC51EF5C-2CF3-4A55-BF85-B63CA3B13F44).
+2018-02-17 17:26:43  No handle found supporting LEGACY_NVM_EXPRESS_PASS_THRU_PROTOCOL_GUID (EC51EF5C-2CF3-4A55-BF85-B63CA3B13F44).
+2018-02-17 17:26:43  1 Total Hard Disc Drives Found
+2018-02-17 17:26:43  1 Total Optical Disc Drives Found
+2018-02-17 17:26:43  Found 1 Hard Disk Drives
+2018-02-17 17:26:43  Found 1 Optical Disk Drives
+2018-02-17 17:26:43  Found Legacy Bios Protocol.
+2018-02-17 17:26:43  System ID: 8096
+2018-02-17 17:26:43  System Model: = HP Pavilion Notebook 
+2018-02-17 17:26:43  System SKU: = M2W75PA#ACJ
+2018-02-17 17:26:43  System ID: 8096
+2018-02-17 17:26:43  Type 11 OS Image: BUILDID#15WW2GSA603#SACJ#DACJ
+2018-02-17 17:26:43  HDD 0 Model : HGST HTS541010A9E680
+2018-02-17 17:26:43  HDD 0 Serial: JD1002DM02ULZL
+2018-02-17 17:26:43  ODD 0 Model : hp DVDRW UJ8G2A
+2018-02-17 17:26:43  ODD 0 Serial: 5ERHA292330
+2018-02-17 17:26:43  DIMM 0 Serial Number: 18592220
+2018-02-17 17:26:43  DIMM 0 Part Number  : M471B1G73QH0-YK0  
+2018-02-17 17:26:43  BIOS Revision: F.82
+2018-02-17 17:26:43  Platform Vendor ID : 0x8086
+2018-02-17 17:26:43  Platform Device ID : 0x1604
+2018-02-17 17:26:43  Only a single DIMM (Index 0) is populated on the system
+2018-02-17 17:26:43  InitializeCeeLogs - No Records Found
+2018-02-17 17:26:43  BattInit: Protocol 2010.
+2018-02-17 17:26:43  Starting Graphical System Diagnostic Menu
+2018-02-17 17:27:05  Mouse Pointer Test Selected
+2018-02-17 17:27:05  Estimated Total Time Required = 20s
+2018-02-17 17:27:05  Mouse Pointer Test Started
+2018-02-17 17:27:18  Mouse Pointer Test Completed - Result 1
+2018-02-17 17:27:22  Estimated Total Time Required = 20s
+2018-02-17 17:27:22  Mouse Pointer Test Started
+2018-02-17 17:27:41  Mouse Pointer Test Completed - Result 1
+2018-02-17 17:27:47  Mouse Pointer Test Completed
+2018-02-17 17:28:00  Mouse Drag And Drop Test Selected
+2018-02-17 17:28:01  Estimated Total Time Required = 20s
+2018-02-17 17:28:01  Mouse Pointer Test Started
+2018-02-17 17:30:38  Mouse Pointer Test Completed - Result 1
+2018-02-17 17:30:43  Mouse Drag and Drop Test Completed
+2018-02-17 17:31:10  Mouse Pointer Test Selected
+2018-02-17 17:31:11  Estimated Total Time Required = 20s
+2018-02-17 17:31:11  Mouse Pointer Test Started
+2018-02-17 17:31:21  Mouse Pointer Test Completed - Result 2
+2018-02-17 17:31:21  Mouse Pointer Test Completed
+2018-02-17 17:31:36  Mouse Pointer Test Selected
+2018-02-17 17:31:37  Estimated Total Time Required = 20s
+2018-02-17 17:31:37  Mouse Pointer Test Started
+2018-02-17 17:31:37  Mouse Pointer Test: Mouse failed mouse movement.
+2018-02-17 17:31:37  Mouse Pointer Test Completed - Result 3
+2018-02-17 17:31:37  Error Code=0x808
+2018-02-17 17:31:37  Serial Number       : 5CD5258CBR
+2018-02-17 17:31:37  Warranty Start Date : 08/14/2015
+2018-02-17 17:31:37  WarrantyIDString size = 60
+2018-02-17 17:31:37  Warranty ID = M8FRVS-7P291G-MFPWMG-G27503
+2018-02-17 17:31:47  Estimated Total Time Required = 20s
+2018-02-17 17:31:47  Mouse Pointer Test Started
+2018-02-17 17:32:02  Mouse Pointer Test Completed - Result 1
+2018-02-17 17:32:07  Mouse Pointer Test Completed
+2018-02-17 17:32:23  Wireless Module Check Selected
+2018-02-17 17:32:23  Estimated Total Time Required = 30s
+2018-02-17 17:32:23  Wireless Module Check Started
+2018-02-17 17:32:23  Wireless Module Check Completed - Result 1
+2018-02-17 17:32:25  Wireless Module Check Completed
+2018-02-17 17:32:28  Uninstalling DTD ATA Commands Protocol
+2018-02-17 17:32:28  Exiting System Diagnostics
+2018-08-24 13:08:37  ================================================
+2018-08-24 13:08:37  EFI System Diagnostic 6.0.2.0 Started
+2018-08-24 13:08:37  Load Options = 
+2018-08-24 13:08:37  Console Control Protocol Not Available
+2018-08-24 13:08:37  SysDiagsBiosData2011 Configuration Variable Acquired
+2018-08-24 13:08:37  Found HP Thermal Diagnostic Protocol
+2018-08-24 13:08:37  System ID: 8096
+2018-08-24 13:08:37  HP BIOS Image Interface Protocol Version 2.0
+2018-08-24 13:08:37  Found 4 Processors 4 Enabled, Max 4 Processors
+2018-08-24 13:08:37  Absolute Pointer Protocol Not Available
+2018-08-24 13:08:38  0 UART device path node found.
+2018-08-24 13:08:38  System Family: = 2
+2018-08-24 13:08:38  Filter Serial Port Test for SystemFamily 2 
+2018-08-24 13:08:38  Language Selected is currently (eng).
+2018-08-24 13:08:40  Initializing Drive Library.
+2018-08-24 13:08:40  TscPerSecond = 07625D15Ch 
+2018-08-24 13:08:40  Installed DTD ATA Commands Protocol
+2018-08-24 13:08:40  Found installed DTD ATA Commands Protocol supporting Packet Commands!
+2018-08-24 13:08:40  Found 1 Hard Disk Drive.
+2018-08-24 13:08:40  Drive 0 SMART Supported
+2018-08-24 13:08:40  AtaCommandsBindBlockIoProtocol(): Linked Block I/O Protocol (0x8E4C7EA0) to Drive 0
+2018-08-24 13:08:40  Found 1 Optical Disk Drive.
+2018-08-24 13:08:40  AtaCommandsBindBlockIoProtocol(): Linked Block I/O Protocol (0x8E4C7AA0) to Drive 1
+2018-08-24 13:08:40  2 Total ATA Drives Found
+2018-08-24 13:08:40  Found 1 handles supporting EFI_EXT_SCSI_PASS_THRU_PROTOCOL (143B7632-B81B-4CB7-ABD3-B625A5B9BFFE).
+2018-08-24 13:08:40  SCSI device connected at Target 0x0100FFFFFFFFFFFF-FFFFFFFFFFFFFFFF Lun 0x0
+2018-08-24 13:08:40  Device Node Sata(0x1,0x0,0x0).
+2018-08-24 13:08:40  Drive 2 - The Medium is Removable
+2018-08-24 13:08:40  GetVPDPage(): PassThru() failed. (Device Error)
+2018-08-24 13:08:40  ExtScsiPassThruInitScsiDriveData(2): GetVPDPage(80) failed. (Device Error)
+2018-08-24 13:08:40  ExtScsiPassThruInitializeScsiDiskSupport(): ExtScsiPassThruInitScsiDriveData() failed. (Device Error)
+2018-08-24 13:08:40  No handle found supporting EFI_NVM_EXPRESS_PASS_THRU_PROTOCOL_GUID (EC51EF5C-2CF3-4A55-BF85-B63CA3B13F44).
+2018-08-24 13:08:40  No handle found supporting LEGACY_NVM_EXPRESS_PASS_THRU_PROTOCOL_GUID (EC51EF5C-2CF3-4A55-BF85-B63CA3B13F44).
+2018-08-24 13:08:40  1 Total Hard Disc Drives Found
+2018-08-24 13:08:40  1 Total Optical Disc Drives Found
+2018-08-24 13:08:40  Found 1 Hard Disk Drives
+2018-08-24 13:08:40  Found 1 Optical Disk Drives
+2018-08-24 13:08:40  Found Legacy Bios Protocol.
+2018-08-24 13:08:40  System ID: 8096
+2018-08-24 13:08:40  System Model: = HP Pavilion Notebook 
+2018-08-24 13:08:40  System SKU: = M2W75PA#ACJ
+2018-08-24 13:08:40  System ID: 8096
+2018-08-24 13:08:40  Type 11 OS Image: BUILDID#15WW2GSA603#SACJ#DACJ
+2018-08-24 13:08:40  HDD 0 Model : HGST HTS541010A9E680
+2018-08-24 13:08:40  HDD 0 Serial: JD1002DM02ULZL
+2018-08-24 13:08:40  ODD 0 Model : hp DVDRW UJ8G2A
+2018-08-24 13:08:40  ODD 0 Serial: 5ERHA292330
+2018-08-24 13:08:40  DIMM 0 Serial Number: 18592220
+2018-08-24 13:08:40  DIMM 0 Part Number  : M471B1G73QH0-YK0  
+2018-08-24 13:08:40  BIOS Revision: F.82
+2018-08-24 13:08:40  Platform Vendor ID : 0x8086
+2018-08-24 13:08:40  Platform Device ID : 0x1604
+2018-08-24 13:08:40  Only a single DIMM (Index 0) is populated on the system
+2018-08-24 13:08:40  BattInit: Protocol 2010.
+2018-08-24 13:08:40  Starting Graphical System Diagnostic Menu
+2018-08-24 13:09:02  EFI HP BIOS Management Started
+2018-08-24 13:09:05  BIOS Management Mode = 1
+2018-08-24 13:09:05  Starting BIOS Update Process
+2018-08-24 13:09:05  Setting BIOS Update Token
+2018-08-24 13:09:05  Getting BIOS Detail Information
+2018-08-24 13:09:05  BIOS Returned BiosID '08092'
+2018-08-24 13:09:05  Loading BIOS Image
+2018-08-24 13:09:05  File name constructed: EFI\HP\BIOS\Previous\08092.bin
+2018-08-24 13:09:05  EFI_FILE_PROTOCOL.Open() failed (Not Found)
+2018-08-24 13:09:05  Failed Reading BIOS Image EFI\HP\BIOS\Previous\08092.bin (Not Found)
+2018-08-24 13:09:21  User Canceled Update
+2018-08-24 13:09:21  EfiBiosUpdateLibEntry(): Result is 0xC
+2018-08-24 13:09:21  BIOS Update Process Complete
+2018-08-24 13:09:24  EFI HP BIOS Management Started
+2018-08-24 13:10:24  Uninstalling DTD ATA Commands Protocol
+2018-08-24 13:10:24  Exiting System Diagnostics
